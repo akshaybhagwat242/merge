@@ -2,7 +2,7 @@
  * 
  *///////////
 /**
- * @author DJ 
+ * @author ad
  *//////
  *
 module merge {
