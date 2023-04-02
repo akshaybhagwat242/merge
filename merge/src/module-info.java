@@ -1,9 +1,9 @@
 /**
  * 
- */
+ *///////////
 /**
  * @author addmiinn
+ *//////
  *
- */
 module merge {
 }
